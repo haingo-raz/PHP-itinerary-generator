@@ -16,11 +16,7 @@ A project whereby users can add a destination in a planner, delete destinations 
 ![Planner](https://raw.githubusercontent.com/haingo-raz/MyHoliday-Itinerary-Generator/master/assets/sample_planner.png)
 
 # How to run it on your computer
-1. Clone the project using the command
-```
-git clone https://github.com/haingo-raz/MyHoliday-Itinerary-Generator.git
-
-```
+1. Clone the project using the command ```git clone https://github.com/haingo-raz/MyHoliday-Itinerary-Generator.git```
 
 1. Put the directory inside xampp/htdocs or any folder you configured your web server with
 
