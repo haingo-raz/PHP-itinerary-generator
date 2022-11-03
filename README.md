@@ -4,7 +4,7 @@ A project whereby users can add a destination in a planner, delete destinations 
 # Technology used 
 - HTML
 - CSS
-- Bootsrap 
+- Bootstrap 
 - JQuery
 - PHP
 
