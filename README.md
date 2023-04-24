@@ -7,6 +7,7 @@ A project whereby users can add a destination in a planner, delete destinations 
 - Bootstrap 
 - JQuery
 - PHP
+- MySQL
 
 # Screenshots 
 ## Search result
