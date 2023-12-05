@@ -1,4 +1,4 @@
-# MyHoliday-Itinerary-Generator
+# PHP based itinerary generator
 A project whereby users can add a destination in a planner, delete destinations from the planner, and print the planner.
 
 # Technology used 
@@ -21,7 +21,7 @@ A project whereby users can add a destination in a planner, delete destinations 
 
 1. Put the directory inside xampp/htdocs or any folder you configured your web server with
 
-1. Create a database entitled **myholiday** and run the queries from the [database dump](https://github.com/haingo-raz/MyHoliday-Itinerary-Generator/tree/master/database%20dump) to create and populate the tables with sample data.
+1. Create a database entitled **myholiday** and run the queries from the [database dump](https://github.com/haingo-raz/PHP-itinerary-generator/tree/master/database%20dump) to create and populate the tables with a sample data.
 
 1. Run Apache and MySQL on XAMPP
 
